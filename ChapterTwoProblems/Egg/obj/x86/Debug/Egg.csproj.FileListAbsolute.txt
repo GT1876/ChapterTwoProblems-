@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Egg\bin\Debug\Egg.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Egg\bin\Debug\Egg.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Egg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Egg\obj\x86\Debug\Egg.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Egg\obj\x86\Debug\Egg.pdb

@@ -5,6 +5,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChapterTwoProblems", "Chapt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room", "Room\Room.csproj", "{D3CB14EF-D19A-4476-8BFC-46D700563E8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "Carpet\Carpet.csproj", "{B8B830A7-F871-46C0-8356-6944B6C22DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes", "HoursAndMinutes\HoursAndMinutes.csproj", "{8DA3AFE5-39BD-4F2B-BCF0-2363DF597AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egg", "Egg\Egg.csproj", "{5C7F7181-4F2C-43C8-9950-3400CD340F0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +25,18 @@ Global
 		{D3CB14EF-D19A-4476-8BFC-46D700563E8E}.Debug|x86.Build.0 = Debug|x86
 		{D3CB14EF-D19A-4476-8BFC-46D700563E8E}.Release|x86.ActiveCfg = Release|x86
 		{D3CB14EF-D19A-4476-8BFC-46D700563E8E}.Release|x86.Build.0 = Release|x86
+		{B8B830A7-F871-46C0-8356-6944B6C22DBD}.Debug|x86.ActiveCfg = Debug|x86
+		{B8B830A7-F871-46C0-8356-6944B6C22DBD}.Debug|x86.Build.0 = Debug|x86
+		{B8B830A7-F871-46C0-8356-6944B6C22DBD}.Release|x86.ActiveCfg = Release|x86
+		{B8B830A7-F871-46C0-8356-6944B6C22DBD}.Release|x86.Build.0 = Release|x86
+		{8DA3AFE5-39BD-4F2B-BCF0-2363DF597AA8}.Debug|x86.ActiveCfg = Debug|x86
+		{8DA3AFE5-39BD-4F2B-BCF0-2363DF597AA8}.Debug|x86.Build.0 = Debug|x86
+		{8DA3AFE5-39BD-4F2B-BCF0-2363DF597AA8}.Release|x86.ActiveCfg = Release|x86
+		{8DA3AFE5-39BD-4F2B-BCF0-2363DF597AA8}.Release|x86.Build.0 = Release|x86
+		{5C7F7181-4F2C-43C8-9950-3400CD340F0E}.Debug|x86.ActiveCfg = Debug|x86
+		{5C7F7181-4F2C-43C8-9950-3400CD340F0E}.Debug|x86.Build.0 = Debug|x86
+		{5C7F7181-4F2C-43C8-9950-3400CD340F0E}.Release|x86.ActiveCfg = Release|x86
+		{5C7F7181-4F2C-43C8-9950-3400CD340F0E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

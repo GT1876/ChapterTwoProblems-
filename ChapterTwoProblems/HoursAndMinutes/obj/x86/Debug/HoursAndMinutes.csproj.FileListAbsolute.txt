@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\HoursAndMinutes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.pdb

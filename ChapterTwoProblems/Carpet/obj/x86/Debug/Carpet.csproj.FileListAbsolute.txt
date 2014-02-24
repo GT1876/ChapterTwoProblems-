@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Carpet\bin\Debug\Carpet.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Carpet\bin\Debug\Carpet.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Carpet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Carpet\obj\x86\Debug\Carpet.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Carpet\obj\x86\Debug\Carpet.pdb

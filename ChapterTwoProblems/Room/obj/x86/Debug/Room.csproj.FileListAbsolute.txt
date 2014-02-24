@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Room\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Room\bin\Debug\Room.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Room\bin\Debug\Room.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Room\obj\x86\Debug\Room.exe
+C:\Users\eahscs\Documents\GitHub\ChapterTwoProblems-\ChapterTwoProblems\Room\obj\x86\Debug\Room.pdb
